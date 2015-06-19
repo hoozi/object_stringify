@@ -2,6 +2,8 @@
 array json_object stringify
 
 #Use
+    <script src="your_root/objStringify.js"></script>
+
     objStringify([1,3,4]) //param array or json_object
     =>[1,3,4] //type of string
   
