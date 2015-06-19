@@ -1,5 +1,5 @@
 # object_stringify
-array json_object stringify
+array json_object stringify for <ie8
 
 #Use
 ```html
